@@ -23,7 +23,7 @@ This project presents an **Emergency Room Dashboard** built in **Microsoft Excel
   - General Practice had the highest referrals (93), followed by Orthopedics (59).
  
 ## Dashboard
-![Screenshot (495)](https://github.com/Jameel-DA/FNP_Sales_Analysis-Excel/blob/main/fnp.png)
+![Screenshot (495)](https://github.com/Jameel-DA/Hospital_Emergency_Room-Excel/blob/main/Final%20Dashboard.png)
 
 ## Features Implemented
 - **Data Processing with Excel**
